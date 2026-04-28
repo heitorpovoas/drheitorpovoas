@@ -1,0 +1,102 @@
+# ============================================================
+# Configuração principal do site Dr. Heitor Póvoas
+# ============================================================
+
+title: Dr. Heitor Póvoas
+tagline: "Cirurgia Bariátrica e Metabólica · Cuidado 360°"
+description: >-
+  Cirurgião bariátrico e intensivista em Salvador. Cirurgia bariátrica e metabólica
+  com cuidado contínuo do consultório à eventual UTI. CRM-BA 11.157 ·
+  RQE 2308 (Cirurgia Bariátrica e Metabólica) · RQE 9689 (Medicina Intensiva).
+
+# ============================================================
+# Identidade do médico (usado em layouts, schema.org, etc.)
+# ============================================================
+
+doctor:
+  name: Dr. Heitor Póvoas
+  full_name: Dr. Heitor Portella Póvoas Filho
+  crm: CRM-BA 11.157
+  rqe_bariatrica: RQE 2308 — Cirurgia Bariátrica e Metabólica
+  rqe_intensiva: RQE 9689 — Medicina Intensiva (AMIB)
+  whatsapp: "5571981073414"
+  whatsapp_display: "(71) 98107-3414"
+  email: "" # preencher se houver
+  address:
+    street: "Av. Prof. Magalhães Neto, 1541"
+    complement: "Bloco A, Salas 4012-13, Centro Médico Hospital da Bahia"
+    neighborhood: "Pituba"
+    city: "Salvador"
+    state: "BA"
+    zip: "41810-011"
+  hospitals:
+    - "Hospital Aliança"
+    - "Hospital Santa Izabel"
+    - "Hospital Santo Amaro"
+
+# ============================================================
+# URLs e build
+# ============================================================
+
+url: "https://drheitorpovoas.com.br"
+baseurl: ""
+
+# ============================================================
+# Defaults para posts e páginas
+# ============================================================
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Dr. Heitor Póvoas
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+# ============================================================
+# Markdown / kramdown
+# ============================================================
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+
+# ============================================================
+# Plugins (compatíveis com GitHub Pages)
+# ============================================================
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# ============================================================
+# Permalinks limpos
+# ============================================================
+
+permalink: /:title/
+
+# ============================================================
+# Paginação
+# ============================================================
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+# ============================================================
+# Excluir do build
+# ============================================================
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+  - .github

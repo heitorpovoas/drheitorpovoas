@@ -1,0 +1,46 @@
+<footer class="site-footer">
+  <div class="site-footer__container">
+    <div class="site-footer__col">
+      <p class="site-footer__brand">Dr. Heitor Póvoas</p>
+      <p class="site-footer__text">
+        {{ site.doctor.crm }}<br>
+        {{ site.doctor.rqe_bariatrica }}<br>
+        {{ site.doctor.rqe_intensiva }}
+      </p>
+    </div>
+    <div class="site-footer__col">
+      <p class="site-footer__heading">Consultório</p>
+      <p class="site-footer__text">
+        {{ site.doctor.address.street }}<br>
+        {{ site.doctor.address.complement }}<br>
+        CEP {{ site.doctor.address.zip }}<br>
+        {{ site.doctor.address.city }} / {{ site.doctor.address.state }}
+      </p>
+    </div>
+    <div class="site-footer__col">
+      <p class="site-footer__heading">Contato</p>
+      <p class="site-footer__text">
+        WhatsApp:
+        <a href="https://wa.me/{{ site.doctor.whatsapp }}" target="_blank" rel="noopener">
+          {{ site.doctor.whatsapp_display }}
+        </a>
+      </p>
+      <p class="site-footer__text">
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener">Instagram</a>
+      </p>
+    </div>
+    <div class="site-footer__col">
+      <p class="site-footer__heading">Áreas</p>
+      <ul class="site-footer__links">
+        <li><a href="{{ '/cirurgia-bariatrica/' | relative_url }}">Cirurgia Bariátrica</a></li>
+        <li><a href="{{ '/cirurgia-metabolica/' | relative_url }}">Cirurgia Metabólica</a></li>
+        <li><a href="{{ '/saude-masculina/' | relative_url }}">Saúde Masculina</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site-footer__legal">
+    <p>© {{ site.time | date: '%Y' }} Dr. Heitor Póvoas. Todos os direitos reservados.</p>
+    <p>Conteúdo conforme Resolução CFM 2.336/2023. Este site tem caráter educativo e informativo. Não substitui consulta médica individual.</p>
+  </div>
+</footer>

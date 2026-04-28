@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post__header">
+    <div class="post__container post__container--narrow">
+      <p class="post__breadcrumb">
+        <a href="{{ '/blog/' | relative_url }}">Blog</a> ·
+        {{ page.category | default: "Bariátrica" | capitalize }}
+      </p>
+      <h1 class="post__title">{{ page.title }}</h1>
+      <div class="post__meta">
+        <span>{{ page.date | date: "%d de %B de %Y" }}</span>
+        <span>·</span>
+        <span>{{ content | strip_html | number_of_words | divided_by: 200 }} min de leitura</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="post__container post__container--narrow">
+    <div class="post__body">
+      {{ content }}
+    </div>
+  </div>
+
+  <footer class="post__footer">
+    <div class="post__container post__container--narrow">
+      <div class="post__signature">
+        <p class="post__signature-name">{{ site.doctor.name }}</p>
+        <p class="post__signature-credentials">
+          {{ site.doctor.crm }}<br>
+          {{ site.doctor.rqe_bariatrica }}<br>
+          {{ site.doctor.rqe_intensiva }}
+        </p>
+      </div>
+      <div class="post__cta">
+        <p>Considera cirurgia bariátrica e quer avaliar seu caso?</p>
+        <a href="https://wa.me/{{ site.doctor.whatsapp }}" class="btn btn--primary" target="_blank" rel="noopener">
+          Agendar consulta
+        </a>
+      </div>
+      <p class="post__legal">
+        Este conteúdo tem caráter educativo e não substitui consulta médica individual.
+        Cada caso requer avaliação clínica específica. Conteúdo conforme Resolução CFM 2.336/2023.
+      </p>
+    </div>
+  </footer>
+</article>

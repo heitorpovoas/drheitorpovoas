@@ -1,0 +1,19 @@
+---
+layout: page
+title: "Blog"
+subtitle: "Conteúdo educativo sobre cirurgia bariátrica, cirurgia metabólica e saúde masculina."
+permalink: /blog/
+---
+
+<div class="posts-grid" style="margin-top: 2rem;">
+  {% for post in site.posts %}
+  <article class="post-card">
+    <p class="post-card__date">{{ post.date | date: "%d %b %Y" }}</p>
+    <h3 class="post-card__title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+    <p class="post-card__description">{{ post.description | default: post.excerpt | strip_html | truncatewords: 30 }}</p>
+    <a href="{{ post.url | relative_url }}" class="post-card__link">Ler artigo completo →</a>
+  </article>
+  {% endfor %}
+</div>

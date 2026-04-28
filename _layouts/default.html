@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0F2B45">
+
+  {%- seo -%}
+  {%- feed_meta -%}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+
+  <!-- Schema.org Physician -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "{{ site.doctor.full_name }}",
+    "alternateName": "{{ site.doctor.name }}",
+    "url": "{{ site.url }}",
+    "telephone": "+{{ site.doctor.whatsapp }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ site.doctor.address.street }}, {{ site.doctor.address.complement }}",
+      "addressLocality": "{{ site.doctor.address.city }}",
+      "addressRegion": "{{ site.doctor.address.state }}",
+      "postalCode": "{{ site.doctor.address.zip }}",
+      "addressCountry": "BR"
+    },
+    "medicalSpecialty": ["Bariatric Surgery", "Critical Care Medicine"],
+    "identifier": "{{ site.doctor.crm }}"
+  }
+  </script>
+</head>
+<body>
+
+{% include header.html %}
+
+<main class="main">
+  {{ content }}
+</main>
+
+{% include footer.html %}
+
+</body>
+</html>

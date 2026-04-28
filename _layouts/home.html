@@ -1,0 +1,115 @@
+---
+layout: default
+---
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero__container">
+    <div class="hero__content">
+      <p class="hero__kicker">Cirurgia Bariátrica e Metabólica</p>
+      <h1 class="hero__title">Cuidado <span class="accent">360°</span><br>do consultório à UTI.</h1>
+      <p class="hero__deck">
+        Cirurgião bariátrico e intensivista em Salvador. O cirurgião que opera é o mesmo médico capacitado a conduzir qualquer intercorrência — segurança e continuidade no tratamento que define a próxima década da sua vida.
+      </p>
+      <div class="hero__cta">
+        <a href="https://wa.me/{{ site.doctor.whatsapp }}" class="btn btn--primary" target="_blank" rel="noopener">
+          Agendar consulta
+        </a>
+        <a href="{{ '/sobre/' | relative_url }}" class="btn btn--ghost">Conheça o Dr. Heitor</a>
+      </div>
+      <p class="hero__credentials">
+        {{ site.doctor.crm }} · {{ site.doctor.rqe_bariatrica }} · {{ site.doctor.rqe_intensiva }}
+      </p>
+    </div>
+    <div class="hero__image">
+      <img src="{{ '/assets/img/dr-heitor-hero.jpg' | relative_url }}" alt="Dr. Heitor Póvoas, cirurgião bariátrico em Salvador">
+    </div>
+  </div>
+</section>
+
+<!-- DIFERENCIAL -->
+<section class="section section--alt">
+  <div class="section__container">
+    <h2 class="section__title">O que diferencia<br>esta prática.</h2>
+    <div class="diff-grid">
+      <div class="diff-card">
+        <span class="diff-card__num">01</span>
+        <h3 class="diff-card__title">Dupla especialização</h3>
+        <p>Cirurgião bariátrico e intensivista — formação dupla rara no Brasil. O mesmo médico que opera tem capacitação formal para conduzir o paciente em terapia intensiva, caso necessário.</p>
+      </div>
+      <div class="diff-card">
+        <span class="diff-card__num">02</span>
+        <h3 class="diff-card__title">Continuidade do cuidado</h3>
+        <p>Acompanhamento longitudinal estruturado por 5 a 10 anos. Cirurgia bariátrica não é evento — é tratamento. O resultado se constrói no que vem depois.</p>
+      </div>
+      <div class="diff-card">
+        <span class="diff-card__num">03</span>
+        <h3 class="diff-card__title">Hospitais de referência</h3>
+        <p>Cirurgias realizadas em hospitais privados de referência em Salvador, com destaque para o Hospital Aliança — Acreditação Internacional Joint Commission.</p>
+      </div>
+      <div class="diff-card">
+        <span class="diff-card__num">04</span>
+        <h3 class="diff-card__title">Critério na indicação</h3>
+        <p>Cirurgião sério recusa pacientes. Avaliação criteriosa com transparência sobre indicações, contraindicações e alternativas — antes da decisão cirúrgica.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÁREAS DE ATUAÇÃO -->
+<section class="section">
+  <div class="section__container">
+    <h2 class="section__title">Áreas de atuação.</h2>
+    <div class="services">
+      <a href="{{ '/cirurgia-bariatrica/' | relative_url }}" class="service-card">
+        <h3>Cirurgia Bariátrica</h3>
+        <p>Sleeve gástrico, bypass em Y de Roux e bipartição de trânsito. Avaliação completa e indicação técnica baseada na fisiopatologia individual.</p>
+        <span class="service-card__link">Saiba mais →</span>
+      </a>
+      <a href="{{ '/cirurgia-metabolica/' | relative_url }}" class="service-card">
+        <h3>Cirurgia Metabólica</h3>
+        <p>Indicada para pacientes com diabetes tipo 2 mal controlado e IMC entre 30 e 35. Maior nível de evidência em remissão sustentada de DM2.</p>
+        <span class="service-card__link">Saiba mais →</span>
+      </a>
+      <a href="{{ '/saude-masculina/' | relative_url }}" class="service-card">
+        <h3>Saúde Masculina</h3>
+        <p>Avaliação e tratamento de DAEM (deficiência androgênica do envelhecimento masculino) e composição corporal no homem adulto.</p>
+        <span class="service-card__link">Saiba mais →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ÚLTIMOS POSTS DO BLOG -->
+<section class="section section--alt">
+  <div class="section__container">
+    <h2 class="section__title">Conteúdo recente.</h2>
+    <div class="posts-grid">
+      {% for post in site.posts limit:3 %}
+      <article class="post-card">
+        <p class="post-card__date">{{ post.date | date: "%d %b %Y" }}</p>
+        <h3 class="post-card__title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <p class="post-card__description">{{ post.description | default: post.excerpt | strip_html | truncatewords: 28 }}</p>
+        <a href="{{ post.url | relative_url }}" class="post-card__link">Ler artigo completo →</a>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="section__cta">
+      <a href="{{ '/blog/' | relative_url }}" class="btn btn--ghost">Ver todos os artigos</a>
+    </div>
+  </div>
+</section>
+
+<!-- CTA FINAL -->
+<section class="cta-final">
+  <div class="cta-final__container">
+    <h2>Avaliação criteriosa, decisão informada.</h2>
+    <p>Cirurgia bariátrica é decisão para a década seguinte, não para a semana seguinte. Agende uma consulta de avaliação para conversarmos sobre seu caso específico.</p>
+    <a href="https://wa.me/{{ site.doctor.whatsapp }}" class="btn btn--primary btn--large" target="_blank" rel="noopener">
+      Agendar consulta pelo WhatsApp
+    </a>
+    <p class="cta-final__note">{{ site.doctor.whatsapp_display }} · Atendimento de segunda a sexta</p>
+  </div>
+</section>

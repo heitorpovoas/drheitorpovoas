@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="site-header__container">
+    <a href="{{ '/' | relative_url }}" class="site-header__brand">
+      <span class="site-header__name">Dr. Heitor Póvoas</span>
+      <span class="site-header__role">Cirurgia Bariátrica e Metabólica</span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/sobre/' | relative_url }}">Sobre</a>
+      <a href="{{ '/cirurgia-bariatrica/' | relative_url }}">Bariátrica</a>
+      <a href="{{ '/cirurgia-metabolica/' | relative_url }}">Metabólica</a>
+      <a href="{{ '/saude-masculina/' | relative_url }}">Saúde Masculina</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <a href="https://wa.me/{{ site.doctor.whatsapp }}" class="site-nav__cta" target="_blank" rel="noopener">
+        Agendar
+      </a>
+    </nav>
+    <button class="site-nav__toggle" aria-label="Menu" onclick="document.querySelector('.site-nav').classList.toggle('is-open')">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
