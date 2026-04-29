@@ -233,12 +233,13 @@ hr {
 
 .hero__kicker {
   font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.14em;
   color: var(--gold);
   margin-bottom: 1.2rem;
   font-weight: 500;
+  line-height: 1.6;
 }
 
 .hero__title {
