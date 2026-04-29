@@ -706,6 +706,61 @@ hr {
 }
 
 /* ============================================================
+   ÂNCORA INSTITUCIONAL BAROS (final da home)
+   ============================================================ */
+
+.institutional {
+  background: var(--cream-soft);
+  padding: var(--space-lg) 1.5rem;
+  text-align: center;
+  border-top: 1px solid var(--divider);
+}
+
+.institutional__container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.institutional__kicker {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--gray-mute);
+  margin: 0 0 1.4rem;
+  font-weight: 500;
+}
+
+.institutional__logo {
+  max-width: 320px;
+  height: auto;
+  margin: 0 auto 1.6rem;
+  display: block;
+}
+
+.institutional__tagline {
+  font-family: var(--font-display);
+  font-size: clamp(1.15rem, 2.2vw, 1.4rem);
+  font-style: italic;
+  color: var(--navy);
+  margin: 0 0 1.2rem;
+  line-height: 1.4;
+}
+
+.institutional__address {
+  font-size: 0.9rem;
+  color: var(--gray-mute);
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+  .institutional__logo {
+    max-width: 240px;
+  }
+}
+
+/* ============================================================
    FOOTER
    ============================================================ */
 
