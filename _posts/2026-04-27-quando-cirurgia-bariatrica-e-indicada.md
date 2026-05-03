@@ -86,7 +86,7 @@ Tão importante quanto saber quando indicar é saber quando não indicar.
 
 Contraindicações absolutas são poucas e geralmente óbvias: doenças graves sem condições cirúrgicas, transtornos alimentares ativos não tratados (anorexia em particular), psicoses descompensadas, dependência química ativa, gestação.
 
-As contraindicações *relativas* — onde a cirurgia pode ser feita, mas talvez não deva ser feita ainda — são mais sutis e mais frequentes:
+As contraindicações *relativas* — onde a cirurgia pode ser feita, mas é preciso uma discussão mais cuidadosa e alinnhamento de expectativas:
 
 - Paciente que ainda não tentou tratamento clínico estruturado de forma séria.
 - Paciente com expectativa irreal sobre resultado.
@@ -94,7 +94,7 @@ As contraindicações *relativas* — onde a cirurgia pode ser feita, mas talvez
 - Paciente em fase aguda de luto, separação, mudança profissional grande — qualquer estressor psicossocial maior que comprometa o pós-operatório.
 - Paciente jovem com obesidade leve a moderada, sem comorbidade significativa, e sem histórico real de falha terapêutica clínica.
 
-Cirurgião que opera todos esses pacientes não está sendo generoso. Está oferecendo um tratamento errado para o momento errado — e é assim que se constroem as recidivas, as deficiências nutricionais crônicas e as histórias de arrependimento.
+Cirurgião que opera todos os pacientes não está sendo generoso. Está oferecendo um tratamento errado para o momento errado — e é assim que se constroem as recidivas, as deficiências nutricionais crônicas e as histórias de arrependimento.
 
 ## A consulta de avaliação na prática
 
