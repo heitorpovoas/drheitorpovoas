@@ -21,11 +21,11 @@ Indicado preferencialmente em pacientes com IMC entre 35 e 45, sem refluxo gastr
 
 Cria uma pequena bolsa gástrica e religa o trato digestivo a uma alça intestinal, com exclusão funcional de duodeno e parte proximal do jejuno. Soma três mecanismos: reorganização do trânsito alimentar, estímulo incretínico potente e absorção controlada.
 
-Indicado preferencialmente em pacientes com **DM2 estabelecido**, IMC ≥ 40, ou refluxo gastroesofágico associado. Maior nível de evidência em remissão sustentada de DM2 — superior ao sleeve em estudos de 5 anos.
+Indicado preferencialmente em pacientes com **DM2 estabelecido**, IMC ≥ 45, ou refluxo gastroesofágico significativo associado. Maior nível de evidência em remissão sustentada de DM2 — superior ao sleeve em estudos de 5 anos. 
 
 ### Bipartição de trânsito (Santoro)
 
-Técnica que preserva o trânsito alimentar pelo duodeno e ativa o "freio ileal" sem exclusão proximal. Tecnicamente mais complexa, com indicações mais específicas — incluindo casos de revisão pós-sleeve, DM2 grave em pacientes que não toleram componente disabsortivo, e pacientes com expectativa de fertilidade futura.
+Técnica que preserva o trânsito alimentar pelo duodeno e ativa o "freio ileal" sem exclusão proximal. Tecnicamente mais complexa, com indicações mais específicas — incluindo casos de revisão pós-sleeve ou bypass por reganho de peso, DM2 grave em pacientes mal controlados a despeito de tratamento farmacológico otimizado ou super-obesos (IMC > 50 kg/m2).
 
 ## Indicação cirúrgica
 
