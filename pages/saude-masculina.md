@@ -44,7 +44,7 @@ Reposição prescrita sem esses critérios não é medicina — é prescrição 
 Igualmente importante nomear o que não justifica reposição hormonal:
 
 - "Quero ficar mais forte" sem sintomas nem confirmação laboratorial
-- Testosterona dentro de faixa normal, mesmo que no terço inferior
+- Testosterona dentro de faixa normal, sem sintomas
 - Sintomas inespecíficos com causas alternativas não investigadas
 - Pressão por motivos estéticos ou competitivos
 - Idade avançada por si só, sem sintomas relevantes
