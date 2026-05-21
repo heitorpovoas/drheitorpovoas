@@ -100,11 +100,8 @@ Casos que envolvem necessidade de avaliação ginecológica específica — incl
 Quando indicada terapia farmacológica (incluindo agonistas de GLP-1 ou outras), a Clínica Baros segue postura de transparência regulatória integral:
 
 - Receitas são emitidas nominalmente, com indicação clínica documentada
-- A medicação é adquirida diretamente pela paciente em farmácia de sua escolha, com nota fiscal própria
-- Não há vinculação financeira entre a prática médica e o fornecimento de medicamentos
+- A medicação pode ser adquirida diretamente pela paciente em farmácia de sua escolha, com nota fiscal própria
 - Termos de Consentimento Livre e Esclarecido específicos são aplicados antes do início de cada terapia
-
-Esta separação é estrutural — garante transparência, alinhamento com o Código de Ética Médica e clareza sobre o que está sendo cobrado pelo trabalho médico em si.
 
 ---
 
@@ -116,7 +113,7 @@ Todo o atendimento na Clínica Baros segue rigorosamente as resoluções do Cons
 - Resolução CFM 2.333/2023 (terapia hormonal com finalidade estética/performance)
 - Lei Geral de Proteção de Dados (Lei 13.709/2018)
 
-Nenhum tratamento é indicado por demanda comercial. Toda indicação parte de critério clínico, exame laboratorial confirmatório quando aplicável, e investigação prévia de causas alternativas.
+Toda indicação parte de critério clínico, exame laboratorial confirmatório quando aplicável, e investigação prévia de causas alternativas.
 
 ---
 
@@ -126,4 +123,4 @@ Para agendar consulta de avaliação metabólica, entre em contato pelo WhatsApp
 
 [**Agendar consulta no WhatsApp**](https://wa.me/{{ site.doctor.whatsapp }}) — {{ site.doctor.whatsapp_display }}
 
-A consulta inicial tem duração estendida (90 minutos) e inclui avaliação de composição corporal por bioimpedância e dinamometria, sem custo adicional.
+A consulta inicial tem duração estendida (60 a 90 minutos) e inclui avaliação de composição corporal por bioimpedância, sem custo adicional.
