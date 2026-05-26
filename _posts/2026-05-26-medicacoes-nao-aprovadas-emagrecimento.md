@@ -10,8 +10,6 @@ description: >-
 permalink: /medicacoes-nao-aprovadas-emagrecimento/
 ---
 
-# Medicação que não é medicação: o mercado cinza do emagrecimento em 2026
-
 *7 min de leitura*
 
 Um Reels recente colocou doze produtos no mesmo ranking de "melhores medicações para emagrecer". O frasco eleito como **#1** trazia, na própria etiqueta, três palavras que invalidam clinicamente o conteúdo do vídeo inteiro: **Research Use Only**.
@@ -84,9 +82,7 @@ A ANVISA não foi omissa. Quem afirma o contrário não leu as normativas em vig
 
 **RDC nº 973/2025.** Estabelece, para os agonistas GLP-1 aprovados, **regime regulatório semelhante ao de antimicrobianos**: receita em duas vias, retenção de uma via pela farmácia, registro obrigatório no SNGPC, validade de 90 dias.
 
-**Abril/2026.** Anvisa anunciou nova rodada de medidas — suspensão de autorização de funcionamento de farmácias em situação de risco, intensificação de fiscalização, acordos de cooperação com agências de outros países. **Desde janeiro/2026 já foram publicadas dez ações de proibição** de importação, comércio e uso de produtos irregulares com semaglutida ou tirzepatida.
-
-**Sociedade Brasileira de Endocrinologia e Metabologia (SBEM).** Em contribuição formal enviada à ANVISA, defendeu **proibição total da manipulação** desses análogos, argumentando que a proposta regulatória em discussão "não é suficiente para garantir a proteção adequada da população".
+**Abril/2026.** Anvisa anunciou nova rodada de medidas — suspensão de autorização de funcionamento de farmácias em situação de risco, intensificação de fiscalização, acordos de cooperação com agências de outros países.
 
 O cenário é claro: a regulação está endurecendo, não afrouxando. **Quem prescreve ou recomenda produtos fora do canal registrado está se posicionando contra a direção sanitária do país.**
 
