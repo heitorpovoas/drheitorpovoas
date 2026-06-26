@@ -10,8 +10,6 @@ description: >-
 permalink: /lancet-2026-sleeve-tirzepatida-semaglutida-dm2/
 ---
 
-# Em obesidade com DM2, quem chega primeiro à remissão? O que o estudo Leslie–Steffen–Wise (Lancet, jun/2026) mostra
-
 *9 min de leitura · análise crítica*
 
 Publicado em 17 de junho de 2026 no *Lancet Diabetes & Endocrinology*, o estudo de Leslie, Steffen, Wise e colaboradores põe em paralelo as três modalidades mais discutidas em 2026 — semaglutida 2,4 mg, tirzepatida e sleeve gastrectomy — num desenho real-world com **45 093 adultos** com obesidade severa e diabetes tipo 2. É a comparação direta que faltava no debate.
