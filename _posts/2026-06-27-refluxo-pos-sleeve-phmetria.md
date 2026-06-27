@@ -12,7 +12,7 @@ permalink: /refluxo-pos-sleeve-phmetria/
 ---
 *6 min de leitura · análise crítica*
 
-A doença do refluxo gastroesofágico (DRGE) é o calcanhar de Aquiles do sleeve gastrectomy. Todo cirurgião que opera sabe disso na prática, e a literatura de manometria e endoscopia já apontava nessa direção há anos. Um estudo recente de **pHmetria ambulatorial** ([El Hayek & Koop, *Obesity Surgery*, jun/2026](https://doi.org/10.1007/s11695-026-08811-1)) acrescenta uma camada objetiva — medir o ácido, não só o sintoma — e, no caminho, entrega um achado que muda conduta: **sintoma de refluxo, uso de IBP e endoscopia não predizem a exposição ácida medida.**
+A doença do refluxo gastroesofágico (DRGE) é o calcanhar de Aquiles da gastrectomia vertical (sleeve). Todo cirurgião que opera sabe disso na prática, e a literatura de manometria e endoscopia já apontava nessa direção há anos. Um estudo recente de **pHmetria ambulatorial** ([El Hayek & Koop, *Obesity Surgery*, jun/2026](https://doi.org/10.1007/s11695-026-08811-1)) acrescenta uma camada objetiva — medir o ácido, não só o sintoma — e, no caminho, entrega um achado que muda conduta: **sintoma de refluxo, uso de IBP e endoscopia não predizem a exposição ácida medida.**
 
 Vou ser direto sobre as duas coisas ao mesmo tempo: o sinal clínico é relevante, e o desenho tem uma limitação de seleção grande que impede ler os percentuais como prevalência populacional. As duas afirmações convivem.
 
@@ -28,10 +28,10 @@ O desfecho objetivo foi o **tempo de exposição ácida (AET)** — percentual d
 
 ## Os resultados
 
-| Desfecho | Sleeve (n=24) | Bypass (n=21) | p |
+| Desfecho          | Sleeve (n=24) |   Bypass (n=21) | p |
 |---|---|---|---|
-| AET anormal (≥6%) | 54,2% | 28,6% | 0,083 |
-| DRGE grave (≥10%) | 55,6% | 18,8% | 0,028 |
+| AET anormal (≥6%) | 54,2%         | 28,6%           | 0,083 |
+| DRGE grave (≥10%) | 55,6%         | 18,8%           | 0,028 |
 
 Duas leituras honestas dos números:
 
