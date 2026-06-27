@@ -10,7 +10,6 @@ description: >-
   pHmetria encontra. Útil, com uma ressalva grande de seleção.
 permalink: /refluxo-pos-sleeve-phmetria/
 ---
-*6 min de leitura · análise crítica*
 
 A doença do refluxo gastroesofágico (DRGE) é o calcanhar de Aquiles da gastrectomia vertical (sleeve). Todo cirurgião que opera sabe disso na prática, e a literatura de manometria e endoscopia já apontava nessa direção há anos. Um estudo recente de **pHmetria ambulatorial** ([El Hayek & Koop, *Obesity Surgery*, jun/2026](https://doi.org/10.1007/s11695-026-08811-1)) acrescenta uma camada objetiva — medir o ácido, não só o sintoma — e, no caminho, entrega um achado que muda conduta: **sintoma de refluxo, uso de IBP e endoscopia não predizem a exposição ácida medida.**
 
