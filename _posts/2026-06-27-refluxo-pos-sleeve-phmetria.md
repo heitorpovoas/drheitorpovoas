@@ -27,10 +27,10 @@ O desfecho objetivo foi o **tempo de exposição ácida (AET)** — percentual d
 
 ## Os resultados
 
-| Desfecho               | Sleeve (n=24) |   Bypass (n=21) | p |
+| Desfecho               | Sleeve (n=24) |   Bypass (n=21)      | p |
 |---|---|---|---|
-| AET anormal (≥6%)      | 54,2%         | 28,6%           | 0,083 |
-| DRGE grave (≥10%)      | 55,6%         | 18,8%           | 0,028 |
+| AET anormal (≥6%)      |     54,2%      |     28,6%           | 0,083 |
+| DRGE grave (≥10%)      |     55,6%      |     18,8%           | 0,028 |
 
 Duas leituras honestas dos números:
 
