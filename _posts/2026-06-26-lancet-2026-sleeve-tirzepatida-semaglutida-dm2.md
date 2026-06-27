@@ -3,6 +3,7 @@ layout: post
 title: 'Em obesidade com DM2, quem chega primeiro à remissão? O que o estudo Leslie–Steffen–Wise (Lancet, jun/2026) mostra'
 date: 2026-06-26
 category: cirurgia-bariatrica
+tags: [literatura-comentada]
 description: >-
   Estudo real-world de 45 mil pacientes compara sleeve, semaglutida e
   tirzepatida em obesidade com DM2. A hierarquia é clara — e as baseline
