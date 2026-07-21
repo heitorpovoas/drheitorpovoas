@@ -18,7 +18,7 @@ Essa dupla formação fundamenta o que define a prática hoje: capacidade técni
 ## Registros profissionais
 
 - **CRM-BA 11.157** — Conselho Regional de Medicina da Bahia
-- **RQE 2308** — Cirurgia Bariátrica e Metabólica
+- **RQE 23086** — Cirurgia Bariátrica e Metabólica
 - **RQE 9689** — Medicina Intensiva (AMIB)
 - **ORCID** — [0000-0001-8197-9916](https://orcid.org/0000-0001-8197-9916)
 
@@ -32,7 +32,7 @@ Coordenador médico de UTI Geral no **Hospital de Ilhéus**, onde atua na gestã
 
 A maioria dos cirurgiões bariátricos é cirurgião — apenas. Quando ocorre uma complicação grave que demanda terapia intensiva, o paciente passa para uma equipe diferente, que não acompanhou o pré-operatório nem realizou a cirurgia. Cada transição de cuidado em medicina é um ponto de potencial perda de informação.
 
-A dupla formação — **cirurgião bariátrico (RQE 2308) e intensivista pela AMIB (RQE 9689)** — significa que o mesmo médico que avalia o paciente em consulta, planeja a cirurgia e a executa tem capacidade técnica formal para conduzir terapia intensiva, caso isso se faça necessário.
+A dupla formação — **cirurgião bariátrico (RQE 23086) e intensivista pela AMIB (RQE 9689)** — significa que o mesmo médico que avalia o paciente em consulta, planeja a cirurgia e a executa tem capacidade técnica formal para conduzir terapia intensiva, caso isso se faça necessário.
 
 Não substitui a equipe da UTI. Complementa-a, com o conhecimento específico do procedimento realizado e do histórico individual do paciente. Para o paciente que valoriza segurança e continuidade, é diferencial técnico real.
 

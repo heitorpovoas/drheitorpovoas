@@ -79,7 +79,7 @@ A maioria dos cirurgiões bariátricos é cirurgião — apenas. Quando ocorre u
 
 Cirurgiões com formação adicional em **medicina intensiva** representam uma situação clinicamente diferente: o mesmo médico que realizou a cirurgia tem capacidade técnica formal para conduzir o paciente em terapia intensiva, caso isso se faça necessário. Não substitui a equipe da UTI — complementa-a, com o conhecimento específico do procedimento realizado.
 
-Esse é um dos diferenciais que defendo na minha prática. Além de cirurgião bariátrico (RQE 2308), sou intensivista pela AMIB (RQE 9689). Cuidado contínuo do consultório à sala de cirurgia, e da sala de cirurgia à eventual UTI, sem transições desnecessárias de informação.
+Esse é um dos diferenciais que defendo na minha prática. Além de cirurgião bariátrico (RQE 23086), sou intensivista pela AMIB (RQE 9689). Cuidado contínuo do consultório à sala de cirurgia, e da sala de cirurgia à eventual UTI, sem transições desnecessárias de informação.
 
 Não é o único critério importante. Mas para o paciente que valoriza segurança e continuidade, é critério legítimo.
 

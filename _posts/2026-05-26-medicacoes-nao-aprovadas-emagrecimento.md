@@ -145,6 +145,6 @@ Decisão clínica em obesidade não cabe em pódio. Cabe em consulta.
 ---
 
 *Dr. Heitor Póvoas*
-*CRM-BA 11.157 · RQE 2308 — Cirurgia Bariátrica e Metabólica · RQE 9689 — Medicina Intensiva (AMIB)*
+*CRM-BA 11.157 · RQE 23086 — Cirurgia Bariátrica e Metabólica · RQE 9689 — Medicina Intensiva (AMIB)*
 
 *Este conteúdo tem caráter educativo e não substitui consulta médica individual. Conteúdo conforme Resolução CFM 2.336/2023.*
