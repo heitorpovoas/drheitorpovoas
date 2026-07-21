@@ -19,6 +19,7 @@ Essa dupla formação fundamenta o que define a prática hoje: capacidade técni
 
 - **CRM-BA 11.157** — Conselho Regional de Medicina da Bahia
 - **RQE 23086** — Cirurgia Bariátrica e Metabólica
+- **RQE 4384** — Cirurgia Geral
 - **RQE 9689** — Medicina Intensiva (AMIB)
 - **ORCID** — [0000-0001-8197-9916](https://orcid.org/0000-0001-8197-9916)
 

@@ -7,7 +7,8 @@ tagline: "Cirurgia Bariátrica e Metabólica · Cuidado 360°"
 description: >-
   Cirurgião bariátrico e intensivista em Salvador. Cirurgia bariátrica e metabólica
   com cuidado contínuo do consultório à eventual UTI. CRM-BA 11.157 ·
-  RQE 23086 (Cirurgia Bariátrica e Metabólica) · RQE 9689 (Medicina Intensiva).
+  RQE 23086 (Cirurgia Bariátrica e Metabólica) · RQE 4384 (Cirurgia Geral) ·
+  RQE 9689 (Medicina Intensiva).
 
 # ============================================================
 # Identidade do médico (usado em layouts, schema.org, etc.)
@@ -18,6 +19,7 @@ doctor:
   full_name: Dr. Heitor Portella Póvoas Filho
   crm: CRM-BA 11.157
   rqe_bariatrica: RQE 23086 — Cirurgia Bariátrica e Metabólica
+  rqe_cirurgia_geral: RQE 4384 — Cirurgia Geral
   rqe_intensiva: RQE 9689 — Medicina Intensiva (AMIB)
   whatsapp: "5571981073414"
   whatsapp_display: "(71) 98107-3414"
