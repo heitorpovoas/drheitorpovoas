@@ -262,6 +262,33 @@ hr {
   max-width: 540px;
 }
 
+.hero__locations {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  padding: 0.55rem 1.1rem;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(198, 164, 96, 0.45);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: rgba(245, 245, 240, 0.9);
+}
+
+.hero__locations strong {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.hero__locations a {
+  color: rgba(245, 245, 240, 0.9);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero__locations a:hover { color: var(--gold); }
+
 .hero__cta {
   display: flex;
   gap: 1rem;

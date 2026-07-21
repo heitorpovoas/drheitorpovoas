@@ -10,12 +10,20 @@
       </p>
     </div>
     <div class="site-footer__col">
-      <p class="site-footer__heading">Consultório</p>
+      <p class="site-footer__heading">Consultórios</p>
       <p class="site-footer__text">
+        <strong>Salvador</strong><br>
         {{ site.doctor.address.street }}<br>
         {{ site.doctor.address.complement }}<br>
         CEP {{ site.doctor.address.zip }}<br>
         {{ site.doctor.address.city }} / {{ site.doctor.address.state }}
+      </p>
+      <p class="site-footer__text">
+        <strong>Ilhéus</strong><br>
+        {{ site.doctor.address_ilheus.building }}<br>
+        {{ site.doctor.address_ilheus.street }}<br>
+        {{ site.doctor.address_ilheus.neighborhood }}<br>
+        {{ site.doctor.address_ilheus.city }} / {{ site.doctor.address_ilheus.state }}
       </p>
     </div>
     <div class="site-footer__col">

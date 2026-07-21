@@ -31,6 +31,13 @@ doctor:
     city: "Salvador"
     state: "BA"
     zip: "41810-011"
+  address_ilheus:
+    building: "Ed. Premier Business Center"
+    street: "Av. Osvaldo Cruz, 74"
+    neighborhood: "Cidade Nova"
+    city: "Ilhéus"
+    state: "BA"
+    schedule: "Quinzenal, às quartas-feiras pela manhã"
   hospitals:
     - "Hospital Aliança"
     - "Hospital Santa Izabel"

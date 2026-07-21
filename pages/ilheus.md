@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Atendimento em Ilhéus"
-subtitle: "Consultório no Ed. Premiere Business Center. Cirurgia videolaparoscópica, tratamento da obesidade e doenças metabólicas."
-description: "Consultório em Ilhéus no Ed. Premiere Business Center. Cirurgia videolaparoscópica, tratamento da obesidade e doenças metabólicas. Atendimento quinzenal às quartas-feiras pela manhã."
+title: "Atuação em Ilhéus"
+subtitle: "Consultório no Ed. Premier Business Center. Cirurgia videolaparoscópica, tratamento da obesidade e doenças metabólicas."
+description: "Atuação em Ilhéus — Ed. Premier Business Center, Av. Osvaldo Cruz, 74, Cidade Nova. Cirurgia videolaparoscópica, obesidade e doenças metabólicas. Atendimento quinzenal às quartas-feiras."
 permalink: /ilheus/
 ---
-Pacientes do sul da Bahia que precisam de cirurgia do aparelho digestivo ou de tratamento para obesidade e doença metabólica historicamente dependem de Salvador. O consultório em Ilhéus existe para reduzir essa dependência no que ela tem de mais custoso: a consulta e o acompanhamento.
+Pacientes do sul da Bahia que precisam de cirurgia do aparelho digestivo ou de tratamento para obesidade e doença metabólica historicamente dependem de Salvador. A atuação em Ilhéus existe para reduzir essa dependência no que ela tem de mais custoso: a consulta e o acompanhamento.
 ## O consultório
-**Ed. Premiere Business Center — Ilhéus / BA**
-Atendimento quinzenal, às quartas-feiras pela manhã, em regime particular. As datas são definidas com antecedência e informadas no agendamento.
+**{{ site.doctor.address_ilheus.building }}**
+{{ site.doctor.address_ilheus.street }} — {{ site.doctor.address_ilheus.neighborhood }}
+{{ site.doctor.address_ilheus.city }} / {{ site.doctor.address_ilheus.state }}
+{{ site.doctor.address_ilheus.schedule }}, em regime particular. As datas são definidas com antecedência e informadas no agendamento.
 Cirurgias e internações são realizadas nos hospitais credenciados da região.
 ## Cirurgia videolaparoscópica
 Cirurgia do aparelho digestivo por técnica minimamente invasiva, quando há indicação para essa via.
@@ -24,7 +26,7 @@ Obesidade e doença metabólica impõem o problema inverso. Exigem continuidade,
 Nos dois casos, agenda previsível deixa de ser conveniência administrativa e passa a ser variável clínica.
 ## Como agendar
 O agendamento das consultas em Ilhéus é feito pela Clínica BAROS.
-**WhatsApp: [(71) 98107-3414](https://wa.me/{{ site.doctor.whatsapp }})**
+**WhatsApp: [{{ site.doctor.whatsapp_display }}](https://wa.me/{{ site.doctor.whatsapp }})**
 Atendimento particular. Informe que deseja consulta na unidade de Ilhéus para que a data seja alocada na agenda correta.
 ## Sobre o médico
 Cirurgião geral e bariátrico, com atuação em cirurgia do aparelho digestivo, cirurgia bariátrica e metabólica, e medicina intensiva. Sócio-diretor da Clínica BAROS, referência em cirurgia bariátrica e metabólica na Bahia há 25 anos.
