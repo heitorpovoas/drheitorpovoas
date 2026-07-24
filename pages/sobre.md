@@ -143,4 +143,4 @@ Av. Prof. Magalhães Neto, 1541, Bloco A, Salas 4012-13
 Centro Médico Hospital da Bahia, CEP 41810-011
 Salvador / BA
 
-**Agendamento via WhatsApp:** [(71) 98107-3414](https://wa.me/{{ site.doctor.whatsapp }})
+**Agendamento via WhatsApp:** [(71) 3039-8282](https://wa.me/{{ site.doctor.whatsapp }})
