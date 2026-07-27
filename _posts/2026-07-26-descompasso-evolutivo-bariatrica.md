@@ -8,7 +8,6 @@ description: >-
 permalink: /descompasso-evolutivo-bariatrica-saciedade/
 ---
 
-*Tempo de leitura estimado: 9 minutos*
 
 Seu aparelho digestivo funciona perfeitamente. O problema é que ele foi projetado para um planeta que não existe mais.
 
