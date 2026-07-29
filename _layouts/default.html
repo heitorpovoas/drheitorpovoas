@@ -10,7 +10,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
   <!-- Schema.org Physician -->
   <script type="application/ld+json">
   {
@@ -19,17 +21,38 @@
     "name": "{{ site.doctor.full_name }}",
     "alternateName": "{{ site.doctor.name }}",
     "url": "{{ site.url }}",
+    "image": "{{ site.url }}{{ '/assets/img/dr-heitor-hero.jpg' | relative_url }}",
     "telephone": "+{{ site.doctor.whatsapp }}",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "{{ site.doctor.address.street }}, {{ site.doctor.address.complement }}",
-      "addressLocality": "{{ site.doctor.address.city }}",
-      "addressRegion": "{{ site.doctor.address.state }}",
-      "postalCode": "{{ site.doctor.address.zip }}",
-      "addressCountry": "BR"
-    },
-    "medicalSpecialty": ["Bariatric Surgery", "Critical Care Medicine"],
-    "identifier": "{{ site.doctor.crm }}"
+    "sameAs": [
+      "https://orcid.org/0000-0001-8197-9916"
+    ],
+    "address": [
+      {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ site.doctor.address.street }}, {{ site.doctor.address.complement }}",
+        "addressLocality": "{{ site.doctor.address.city }}",
+        "addressRegion": "{{ site.doctor.address.state }}",
+        "postalCode": "{{ site.doctor.address.zip }}",
+        "addressCountry": "BR"
+      },
+      {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ site.doctor.address_ilheus.street }}, {{ site.doctor.address_ilheus.building }}",
+        "addressLocality": "{{ site.doctor.address_ilheus.city }}",
+        "addressRegion": "{{ site.doctor.address_ilheus.state }}",
+        "addressCountry": "BR"
+      }
+    ],
+    "medicalSpecialty": ["Bariatric Surgery", "General Surgery", "Critical Care Medicine"],
+    "identifier": "{{ site.doctor.crm }}",
+    "hospitalAffiliation": [
+      {% for hospital in site.doctor.hospitals %}
+      {
+        "@type": "Hospital",
+        "name": "{{ hospital }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
   }
   </script>
   <!-- Privacy-friendly analytics by Plausible -->

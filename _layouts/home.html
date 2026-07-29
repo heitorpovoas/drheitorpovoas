@@ -26,7 +26,10 @@ layout: default
       </p>
     </div>
     <div class="hero__image">
-      <img src="{{ '/assets/img/dr-heitor-hero.jpg' | relative_url }}" alt="Dr. Heitor Póvoas, cirurgião bariátrico e metabólico em Salvador e Ilhéus">
+      <picture>
+        <source srcset="{{ '/assets/img/dr-heitor-hero.webp' | relative_url }}" type="image/webp">
+        <img src="{{ '/assets/img/dr-heitor-hero.jpg' | relative_url }}" alt="Dr. Heitor Póvoas, cirurgião bariátrico e metabólico em Salvador e Ilhéus" width="1000" height="1333" fetchpriority="high" decoding="async">
+      </picture>
     </div>
   </div>
 </section>

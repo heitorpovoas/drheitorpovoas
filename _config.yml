@@ -10,6 +10,10 @@ description: >-
   RQE 23086 (Cirurgia Bariátrica e Metabólica) · RQE 4384 (Cirurgia Geral) ·
   RQE 9689 (Medicina Intensiva).
 
+# Imagem padrão para Open Graph / Twitter Card (jekyll-seo-tag) quando a página
+# não define uma própria — usada quando o link é compartilhado no WhatsApp/redes.
+image: /assets/img/dr-heitor-hero.jpg
+
 # ============================================================
 # Identidade do médico (usado em layouts, schema.org, etc.)
 # ============================================================
