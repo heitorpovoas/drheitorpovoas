@@ -10,7 +10,6 @@ description: >-
 permalink: /proteina-primeiro-ordem-refeicoes/
 ---
 
-*Tempo de leitura: ~8 minutos*
 
 Mesmo prato. Mesmas calorias. Mesma composição de macronutrientes. Muda apenas a sequência da garfada — e a curva de glicose das três horas seguintes fica diferente.
 
