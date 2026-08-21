@@ -125,7 +125,7 @@ Comer proteína primeiro é uma boa ideia. Não é um plano terapêutico.
 ---
 
 **Dr. Heitor Póvoas**
-CRM-BA 11.157 · RQE 2308 (Cirurgia Bariátrica e Metabólica) · RQE 9689 (Medicina Intensiva)
+CRM-BA 11.157 · RQE 23086 (Cirurgia Bariátrica e Metabólica) · RQE 9689 (Medicina Intensiva)
 BAROS — Cirurgia Bariátrica e Metabólica · Salvador, Bahia
 
 *Conteúdo educativo publicado em conformidade com a Resolução CFM 2.336/2023. Este texto não substitui avaliação médica individual, não estabelece relação médico-paciente e não deve ser usado para autodiagnóstico ou automedicação.*

@@ -99,4 +99,4 @@ A pergunta clínica, então, deixa de ser "por que essa pessoa não consegue sim
 
 *Este conteúdo tem caráter informativo e educativo e não substitui a consulta médica individualizada. As indicações, riscos e resultados da cirurgia bariátrica variam conforme cada caso e devem ser avaliados presencialmente. Publicado em conformidade com a Resolução CFM nº 2.336/2023.*
 
-**Dr. Heitor Póvoas — CRM-BA 11.157 · RQE 2308 · RQE 9689**
+**Dr. Heitor Póvoas — CRM-BA 11.157 · RQE 23086 · RQE 9689**
